@@ -1,9 +1,4 @@
-													/*N.I.T ROURKELA
-													  NAME-NARAYAN SETHI
-													  ROLL NO-116CS0233
-													  BRANCH-COMPUTER SCIENCE AND ENGINEERING*/
-													  
-													  
+													 													  
 /*Given a list of contacts which exist in a phone directory. The task is to implement search
 query for the phone directory.The phonebook dictionary is designed using TRIE data
 structure which on input any characters gives the names and numbers of all matching
